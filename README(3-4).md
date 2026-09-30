@@ -152,13 +152,13 @@ pip install requests beautifulsoup4
 Задание 2.3 запускается обычным запуском соответствующего Python-файла:
 
 ```bash
-python task_2_3.py
+python parser.py
 ```
 
 Задание 2.4:
 
 ```bash
-python task_2_4.py
+python check.py
 ```
 
 Названия Python-файлов можно изменить на свои.
