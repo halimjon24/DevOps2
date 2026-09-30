@@ -72,7 +72,6 @@ for item in sells:
     print(f"{item['currency']}: {item['sell']}")
 ```
 
----
 
 ## Задание 2.4 — Проверка изменения web-страниц
 
